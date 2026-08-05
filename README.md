@@ -18,6 +18,7 @@
 - [镜头规格基础:焦距与画幅解读](notes/lens-basics.md) — 18-50mm、F2.8 这类"数据范围"影响什么性能
 - [镜头规格基础:光圈与进光](notes/aperture-light.md) — 光圈数值对进光、虚化、画质的影响
 - [镜头规格基础:快门参数](notes/shutter-speed.md) — 快门速度、机械/电子快门、安全快门
+- [曝光三要素实战:新手怎么设](notes/exposure-practice.md) — 光圈/快门/ISO 的设置顺序与默认值
 
 ## 决策维度(待补充个人偏好)
 
