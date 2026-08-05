@@ -19,6 +19,7 @@
 - [镜头规格基础:光圈与进光](notes/aperture-light.md) — 光圈数值对进光、虚化、画质的影响
 - [镜头规格基础:快门参数](notes/shutter-speed.md) — 快门速度、机械/电子快门、安全快门
 - [曝光三要素实战:新手怎么设](notes/exposure-practice.md) — 光圈/快门/ISO 的设置顺序与默认值
+- [拍摄构图:新手入门法则](notes/composition.md) — 三分法、引导线等构图法则与相机配合
 
 ## 决策维度(待补充个人偏好)
 
