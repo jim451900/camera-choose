@@ -20,6 +20,7 @@
 - [镜头规格基础:快门参数](notes/shutter-speed.md) — 快门速度、机械/电子快门、安全快门
 - [曝光三要素实战:新手怎么设](notes/exposure-practice.md) — 光圈/快门/ISO 的设置顺序与默认值
 - [拍摄构图:新手入门法则](notes/composition.md) — 三分法、引导线等构图法则与相机配合
+- [变焦与走近:透视与放大](notes/zoom-and-perspective.md) — 光学/数码变焦的区别、裁切代价
 
 ## 决策维度(待补充个人偏好)
 
